@@ -1,0 +1,43 @@
+{
+  "notebook": {
+    "title": "90-Day Learning Notebook",
+    "description": "A structured 90-day practical learning and implementation plan.",
+    "enabled": true,
+    "totalDays": 90
+  },
+
+  "settings": {
+    "showDueStatus": true,
+    "showCompletedStatus": true,
+    "showOriginalScheduledDay": true,
+    "allowNotes": true,
+    "allowTopicNotes": true,
+    "allowSources": true,
+    "allowFiles": true,
+    "allowCertifications": true
+  },
+
+  "people": [
+    {
+      "id": "person-001",
+      "name": "",
+      "enabled": true,
+      "notebookTitle": "90-Day Learning Notebook",
+      "days": []
+    },
+    {
+      "id": "person-002",
+      "name": "",
+      "enabled": false,
+      "notebookTitle": "90-Day Learning Notebook",
+      "days": []
+    },
+    {
+      "id": "person-003",
+      "name": "",
+      "enabled": false,
+      "notebookTitle": "90-Day Learning Notebook",
+      "days": []
+    }
+  ]
+}

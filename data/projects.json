@@ -1,0 +1,107 @@
+{
+  "projects": [
+    {
+      "id": "project-enterprise-001",
+      "name": "Enterprise Agentic Automation Platform",
+      "domain": "AI / Agentic AI",
+      "role": "Solution Architect / AI Engineer",
+      "description": "A production-oriented agentic automation platform designed to orchestrate multi-step enterprise workflows using LLMs, tools, APIs and structured agent workflows.",
+      "projectType": "Enterprise",
+      "technologies": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "LLMs",
+        "RAG",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "keyContributions": [
+        "Designed the agent orchestration and solution architecture.",
+        "Integrated enterprise APIs, tools and external systems.",
+        "Defined deployment, reliability and observability approaches."
+      ],
+      "enabled": true,
+      "featured": true,
+      "links": {
+        "github": ""
+      }
+    },
+    {
+      "id": "project-poc-001",
+      "name": "AI Document Processing Agent",
+      "domain": "AI / Intelligent Automation",
+      "role": "AI Agent Developer",
+      "description": "A proof-of-concept agentic workflow that processes business documents, extracts relevant information and coordinates downstream actions through tools and APIs.",
+      "projectType": "POC",
+      "technologies": [
+        "Python",
+        "LangGraph",
+        "LLMs",
+        "RAG",
+        "API Integration"
+      ],
+      "keyContributions": [
+        "Designed the multi-step agent workflow.",
+        "Implemented document processing and information retrieval.",
+        "Connected the agent with external tools and APIs."
+      ],
+      "enabled": true,
+      "featured": true,
+      "links": {
+        "github": ""
+      }
+    },
+    {
+      "id": "project-personal-001",
+      "name": "Personal Profile & Learning Notebook",
+      "domain": "Full-Stack Development",
+      "role": "Architect / Full-Stack Developer",
+      "description": "A personal professional profile combined with a private 90-day learning notebook for tracking practical learning, implementation work, notes and progress.",
+      "projectType": "Personal",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Supabase",
+        "PostgreSQL"
+      ],
+      "keyContributions": [
+        "Designed the application architecture and data model.",
+        "Developed the responsive profile and learning interfaces.",
+        "Designed the configurable learning and content structure."
+      ],
+      "enabled": true,
+      "featured": true,
+      "links": {
+        "github": ""
+      }
+    },
+    {
+      "id": "project-open-source-001",
+      "name": "Agent Workflow Utilities",
+      "domain": "AI Developer Tools",
+      "role": "Developer / Contributor",
+      "description": "A reusable collection of utilities and patterns for developing, testing and integrating agentic AI workflows with external tools and services.",
+      "projectType": "Open Source",
+      "technologies": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "APIs",
+        "Docker"
+      ],
+      "keyContributions": [
+        "Developed reusable components for agent workflows.",
+        "Created integration patterns for external tools.",
+        "Documented practical implementation approaches."
+      ],
+      "enabled": true,
+      "featured": false,
+      "links": {
+        "github": ""
+      }
+    }
+  ]
+}

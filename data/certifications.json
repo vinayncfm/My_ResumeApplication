@@ -1,0 +1,207 @@
+{
+  "certifications": [
+    {
+      "id": "cert-sample-001",
+      "name": "AI & Generative AI Foundations",
+      "issuingOrganization": "Sample Learning Academy",
+      "technology": "Generative AI",
+      "technologies": [
+        "Generative AI",
+        "LLMs",
+        "Prompt Engineering",
+        "RAG"
+      ],
+      "category": "AI / Generative AI",
+      "level": "Foundation",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-01-15",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": true
+    },
+    {
+      "id": "cert-sample-002",
+      "name": "Agentic AI Development",
+      "issuingOrganization": "Sample AI Academy",
+      "technology": "AI Agents",
+      "technologies": [
+        "AI Agents",
+        "Agentic AI",
+        "LLMs",
+        "Tool Calling",
+        "Agent Orchestration"
+      ],
+      "category": "AI / Agentic AI",
+      "level": "Professional",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-02-10",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": true
+    },
+    {
+      "id": "cert-sample-003",
+      "name": "LangChain Application Development",
+      "issuingOrganization": "Sample Developer Academy",
+      "technology": "LangChain",
+      "technologies": [
+        "Python",
+        "LangChain",
+        "LLMs",
+        "RAG",
+        "Agents"
+      ],
+      "category": "AI Development",
+      "level": "Professional",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-03-05",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": true
+    },
+    {
+      "id": "cert-sample-004",
+      "name": "LangGraph Agent Workflows",
+      "issuingOrganization": "Sample AI Engineering Institute",
+      "technology": "LangGraph",
+      "technologies": [
+        "Python",
+        "LangGraph",
+        "Agent Orchestration",
+        "Stateful Workflows"
+      ],
+      "category": "AI / Agentic AI",
+      "level": "Professional",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-03-20",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": true
+    },
+    {
+      "id": "cert-sample-005",
+      "name": "Python Application Development",
+      "issuingOrganization": "Sample Software Academy",
+      "technology": "Python",
+      "technologies": [
+        "Python",
+        "Object-Oriented Programming",
+        "APIs",
+        "Automation"
+      ],
+      "category": "Software Development",
+      "level": "Professional",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-04-12",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "cert-sample-006",
+      "name": "UiPath RPA Developer",
+      "issuingOrganization": "Sample RPA Academy",
+      "technology": "UiPath",
+      "technologies": [
+        "UiPath",
+        "RPA",
+        "Workflow Automation",
+        "Orchestration"
+      ],
+      "category": "RPA / Automation",
+      "level": "Professional",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2024-06-18",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": true
+    },
+    {
+      "id": "cert-sample-007",
+      "name": "Docker & Containerization",
+      "issuingOrganization": "Sample Cloud Engineering Academy",
+      "technology": "Docker",
+      "technologies": [
+        "Docker",
+        "Containers",
+        "Docker Compose",
+        "Deployment"
+      ],
+      "category": "DevOps / Infrastructure",
+      "level": "Associate",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-05-08",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "cert-sample-008",
+      "name": "PostgreSQL Database Development",
+      "issuingOrganization": "Sample Database Academy",
+      "technology": "PostgreSQL",
+      "technologies": [
+        "PostgreSQL",
+        "SQL",
+        "Database Design",
+        "Data Modeling"
+      ],
+      "category": "Databases",
+      "level": "Associate",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-05-25",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "cert-sample-009",
+      "name": "API & System Integration",
+      "issuingOrganization": "Sample Integration Academy",
+      "technology": "APIs",
+      "technologies": [
+        "REST APIs",
+        "API Integration",
+        "System Integration",
+        "Authentication"
+      ],
+      "category": "APIs / Integration",
+      "level": "Professional",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-06-14",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "cert-sample-010",
+      "name": "AI Infrastructure & Observability",
+      "issuingOrganization": "Sample AI Infrastructure Academy",
+      "technology": "AI Infrastructure",
+      "technologies": [
+        "AI Infrastructure",
+        "Docker",
+        "Observability",
+        "Monitoring",
+        "Deployment"
+      ],
+      "category": "AI Infrastructure / DevOps",
+      "level": "Professional",
+      "credentialUrl": "",
+      "credentialId": "",
+      "dateObtained": "2026-07-02",
+      "expiryDate": "",
+      "enabled": true,
+      "featured": false
+    }
+  ]
+}

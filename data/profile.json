@@ -1,0 +1,513 @@
+{
+  "identity": {
+    "name": "Vinay Bandi",
+    "headline": "Technical Manager & Solution Architect"
+  },
+  "about": {
+    "summary": [
+      "Technical Manager and Solution Architect with 12+ years of experience in designing, developing, and delivering enterprise technology solutions across automation, full-stack development, database solutions, and AI Agent development. Brings cross-domain experience across procurement, banking, finance, HRMS, telecommunications, networking, and IT, with a career spanning technical leadership, solution architecture, engineering, client engagement, and enterprise delivery.",
+      "Experienced across the complete solution lifecycle, from business development and client engagement through bid evaluation, project assessment, business value and ROI discussions, requirements analysis, solution definition, architecture, implementation, deployment, and delivery. Brings 8+ years of enterprise RPA experience and 3+ years of AI Agent development and solution architecture, including team leadership, AI Agent CoE enablement, solution planning, resource allocation, and Agile delivery."
+    ],
+    "currentFocus": "Currently focused on AI Agent development, solution architecture, practical POCs, infrastructure planning, and production-ready solution delivery."
+  },
+  "experience": {
+    "totalYears": "12+",
+    "aiAgentsYears": "3+",
+    "rpaYears": "8+",
+    "stackEngineering": "Full"
+  },
+  "expertiseGroups": [
+    {
+      "id": "ai-agent-development-architecture",
+      "name": "AI Agent Development & Architecture",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "AI Agent Development,",
+          "enabled": true
+        },
+        {
+          "name": "Agent Architecture,",
+          "enabled": true
+        },
+        {
+          "name": "Agent Orchestration,",
+          "enabled": true
+        },
+        {
+          "name": "AI Agent Workflows,",
+          "enabled": true
+        },
+        {
+          "name": "Tool / Function Integration,",
+          "enabled": true
+        },
+        {
+          "name": "AI-based Document Processing,",
+          "enabled": true
+        },
+        {
+          "name": "MCP Server Design,",
+          "enabled": true
+        },
+        {
+          "name": "LangChain,",
+          "enabled": true
+        },
+        {
+          "name": "LangGraph,",
+          "enabled": true
+        },
+        {
+          "name": "LLMs,",
+          "enabled": true
+        },
+        {
+          "name": "RAG,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "programming-full-stack",
+      "name": "Programming & Full-Stack Development",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "Python,",
+          "enabled": true
+        },
+        {
+          "name": ".NET,",
+          "enabled": true
+        },
+        {
+          "name": "JavaScript,",
+          "enabled": true
+        },
+        {
+          "name": "API Development,",
+          "enabled": true
+        },
+        {
+          "name": "Full-Stack Development,",
+          "enabled": true
+        },
+        {
+          "name": "Web Application Development,",
+          "enabled": true
+        },
+        {
+          "name": "Backend Development,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "automation-rpa",
+      "name": "Automation & RPA",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "UiPath,",
+          "enabled": true
+        },
+        {
+          "name": "Microsoft Power Automate,",
+          "enabled": true
+        },
+        {
+          "name": "Python Automation,",
+          "enabled": true
+        },
+        {
+          "name": "VBA Automation,",
+          "enabled": true
+        },
+        {
+          "name": "JavaScript Automation,",
+          "enabled": true
+        },
+        {
+          "name": "n8n,",
+          "enabled": true
+        },
+        {
+          "name": "Enterprise Automation,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "databases",
+      "name": "Databases",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "SQL,",
+          "enabled": true
+        },
+        {
+          "name": "PostgreSQL,",
+          "enabled": true
+        },
+        {
+          "name": "Database Design,",
+          "enabled": true
+        },
+        {
+          "name": "Database Setup & Integration,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "apis-system-integration",
+      "name": "APIs & System Integration",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "API Integration,",
+          "enabled": true
+        },
+        {
+          "name": "Tool Integration,",
+          "enabled": true
+        },
+        {
+          "name": "System Integration,",
+          "enabled": true
+        },
+        {
+          "name": "Third-Party Integration,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "architecture-engineering",
+      "name": "Architecture & Engineering",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "Solution Architecture,",
+          "enabled": true
+        },
+        {
+          "name": "Technical Architecture,",
+          "enabled": true
+        },
+        {
+          "name": "Solution Design,",
+          "enabled": true
+        },
+        {
+          "name": "Workflow / Process Design,",
+          "enabled": true
+        },
+        {
+          "name": "Enterprise Automation Architecture,",
+          "enabled": true
+        },
+        {
+          "name": "Full-Stack Engineering,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "business-solution-consulting",
+      "name": "Business & Solution Consulting",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "Client Engagement,",
+          "enabled": true
+        },
+        {
+          "name": "Business Requirements Analysis,",
+          "enabled": true
+        },
+        {
+          "name": "Bid Evaluation,",
+          "enabled": true
+        },
+        {
+          "name": "Project Assessment,",
+          "enabled": true
+        },
+        {
+          "name": "Solution Assessment,",
+          "enabled": true
+        },
+        {
+          "name": "Business Value & ROI Analysis,",
+          "enabled": true
+        },
+        {
+          "name": "Solution Definition,",
+          "enabled": true
+        },
+        {
+          "name": "Stakeholder Management,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "leadership-delivery",
+      "name": "Leadership & Delivery",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "Technical Leadership,",
+          "enabled": true
+        },
+        {
+          "name": "Team Management,",
+          "enabled": true
+        },
+        {
+          "name": "Technical Team Leadership,",
+          "enabled": true
+        },
+        {
+          "name": "Resource Planning & Allocation,",
+          "enabled": true
+        },
+        {
+          "name": "Delivery Management,",
+          "enabled": true
+        },
+        {
+          "name": "Agile Delivery,",
+          "enabled": true
+        },
+        {
+          "name": "RPA CoE Management,",
+          "enabled": true
+        },
+        {
+          "name": "AI Agent CoE Setup & Enablement,",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "ai-infrastructure-devops",
+      "name": "AI Infrastructure & DevOps",
+      "enabled": true,
+      "technologies": [
+        {
+          "name": "AI Infrastructure,",
+          "enabled": true
+        },
+        {
+          "name": "Docker,",
+          "enabled": true
+        },
+        {
+          "name": "Observability,",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "professionalJourney": [
+    {
+      "id": "quadgen-wireless",
+      "company": "QuadGen Wireless Solutions Pvt Ltd",
+      "period": "Apr 2025 – Present",
+      "duration": "1 yr 6 mos",
+      "role": "Technical Manager / AI Agentic Development Manager",
+      "summary": "Technical management and AI Agent development leadership across architecture, solution design, team execution and delivery.",
+      "journeySnapshot": "I work as a Technical Manager and Solution Architect focused on AI Agent development and solution architecture. I lead teams in application architecture, code structure, agent flows, workflows, integrations and solution design. I also contribute to AI Agent CoE setup and enablement, define technical approaches and support teams building practical AI Agent solutions.\n\nI work with clients and stakeholders on solution assessments, bid evaluations, business value and ROI discussions, staffing, resource allocation, Agile delivery, implementation and deployment. I also support CPU/GPU sizing, infrastructure discussions and Agent development environment setup with cross-functional teams.",
+      "roles": [
+        {
+          "title": "Technical Manager / AI Agentic Development Manager",
+          "period": "Apr 2025 – Present",
+          "responsibilities": [
+            "Lead teams in AI Agent development, architecture, workflows, integrations and solution design.",
+            "Define technical approaches and support practical AI Agent development.",
+            "Contribute to AI Agent CoE setup and enablement.",
+            "Support solution assessments, bid evaluations and business value / ROI discussions.",
+            "Plan staffing and resource allocation and drive Agile delivery.",
+            "Support implementation and deployment.",
+            "Support CPU/GPU sizing, infrastructure discussions and development environment setup."
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "mastec-quadgen",
+      "company": "MASTEC Quadgen",
+      "period": "Oct 2023 – Aug 2025",
+      "duration": "1 yr 11 mos",
+      "role": "RPA CoE Manager",
+      "summary": "Led end-to-end RPA solution delivery through the Centre of Excellence, including development, solution design, reviews, infrastructure and project support.",
+      "journeySnapshot": "As an RPA CoE Manager, I worked across the end-to-end RPA solution lifecycle including solution design, development, technical reviews, standards and project support. I led multiple development teams, supported POCs and helped teams deliver automation solutions through implementation and deployment.\n\nI also supported stakeholder discussions, RPA application infrastructure setup, technical feasibility, solution approaches and delivery activities.",
+      "roles": [
+        {
+          "title": "RPA CoE Manager",
+          "period": "Oct 2023 – Aug 2025",
+          "responsibilities": [
+            "Led end-to-end RPA solution development through the CoE.",
+            "Led multiple RPA development teams across projects.",
+            "Performed technical feasibility checks, solution design and technical reviews.",
+            "Supported POC development and automation approaches.",
+            "Participated in RPA stakeholder discussions.",
+            "Supported infrastructure setup for RPA applications.",
+            "Supported development, implementation and deployment."
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "accelirate",
+      "company": "Accelirate, Inc.",
+      "period": "Aug 2021 – Oct 2023",
+      "duration": "2 yrs 3 mos",
+      "role": "Automation Lead",
+      "summary": "Led automation development teams with focus on bot development, POCs, solution design, peer reviews and project support.",
+      "journeySnapshot": "As an Automation Lead, I focused on automation development while leading multiple development teams. I worked on bot development, POCs, technical feasibility, solution design, peer reviews and project support.\n\nThe role was primarily technical and delivery-focused, with limited client interaction.",
+      "roles": [
+        {
+          "title": "Automation Lead",
+          "period": "Aug 2021 – Oct 2023",
+          "responsibilities": [
+            "Led multiple automation development teams.",
+            "Developed RPA bots and supported automation implementations.",
+            "Developed POCs for automation approaches.",
+            "Performed technical feasibility checks and solution design.",
+            "Conducted peer reviews.",
+            "Provided project support and resolved technical issues.",
+            "Supported teams in completing automation solutions."
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "capgemini",
+      "company": "Capgemini Technology Services India Limited",
+      "period": "Jan 2018 – Aug 2021",
+      "duration": "3 yrs 8 mos",
+      "role": "RPA Analyst → Senior RPA Developer",
+      "summary": "Started in RPA project support and progressed into senior development, working as an individual contributor and team member across multiple projects.",
+      "journeySnapshot": "I started in RPA as a project-support team member and individual contributor, with a strong focus on development. I worked across multiple projects, completed assigned automation tasks and created technical design flow documents.\n\nAs I progressed into the Senior RPA Developer role, I continued with hands-on development, technical implementation, project support, documentation and demonstrations.",
+      "roles": [
+        {
+          "title": "RPA Analyst",
+          "period": "Jan 2018 – Aug 2021",
+          "responsibilities": [
+            "Worked as an individual contributor and project-support team member.",
+            "Focused primarily on RPA development and assigned automation tasks.",
+            "Created technical design flow documents.",
+            "Supported project teams with technical implementation.",
+            "Prepared and delivered solution demonstrations."
+          ]
+        },
+        {
+          "title": "Senior RPA Developer",
+          "period": "Jan 2018 – Aug 2021",
+          "responsibilities": [
+            "Performed hands-on RPA development.",
+            "Implemented assigned automation solutions.",
+            "Prepared technical design and process flow documentation.",
+            "Supported project development activities.",
+            "Delivered demonstrations and completed assigned development tasks."
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "smartried",
+      "company": "SMARTRIED SOFTWARE TECHNOLOGIES",
+      "period": "Jul 2014 – Jan 2018",
+      "duration": "3 yrs 7 mos",
+      "role": "Testing Engineer → Senior Software Testing Engineer",
+      "summary": "Built software engineering experience through full-cycle testing across banking, logistics and SAP applications with continuous enhancements.",
+      "journeySnapshot": "I started my technical career in software testing across banking, logistics / transport and SAP applications. My work included test case and scenario preparation, execution, defect identification and continuous validation during application enhancements.\n\nI was involved in regression, UAT, GUI, database and ETL-related testing along with other project-specific testing activities.",
+      "roles": [
+        {
+          "title": "Testing Engineer",
+          "period": "Jul 2014 – Jan 2018",
+          "responsibilities": [
+            "Prepared test cases and test scenarios.",
+            "Performed functional and regression testing.",
+            "Worked on UAT and GUI testing.",
+            "Performed database and ETL-related validation.",
+            "Identified, documented and tracked defects.",
+            "Worked across banking, logistics / transport and SAP projects."
+          ]
+        },
+        {
+          "title": "Senior Software Testing Engineer",
+          "period": "Jul 2014 – Jan 2018",
+          "responsibilities": [
+            "Handled broader software testing responsibilities.",
+            "Executed multiple testing types based on project requirements.",
+            "Prepared and maintained test cases and scenarios.",
+            "Supported application validation and defect management.",
+            "Worked across banking, logistics / transport and SAP applications."
+          ]
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sharekhan",
+      "company": "Sharekhan",
+      "period": "Jan 2012 – Mar 2013",
+      "duration": "1 yr 3 mos",
+      "role": "Relationship Engagement Executive",
+      "summary": "Worked in a client-facing relationship role focused on customer trade requests, order follow-up and market-related information.",
+      "journeySnapshot": "I worked as a Relationship Engagement Executive supporting customers with stock-market activities. I placed orders based on customer instructions, followed up on orders and monitored customer trades and portfolio activity.\n\nI also provided market and order-related information requested by customers. This role gave me early experience in customer communication, relationship management, transaction follow-up and time-sensitive work.",
+      "roles": [
+        {
+          "title": "Relationship Engagement Executive",
+          "period": "Jan 2012 – Mar 2013",
+          "responsibilities": [
+            "Placed stock-market orders based on customer instructions.",
+            "Followed up on orders and trade status.",
+            "Monitored customer trades and portfolio activity.",
+            "Provided market and order-related information.",
+            "Handled customer communication and trade-related queries."
+          ]
+        }
+      ],
+      "enabled": true
+    }
+  ],
+  "social": {
+    "github": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+  "homeSections": {
+    "about": {
+      "enabled": true,
+      "title": "Professional Summary"
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Professional Snapshot"
+    },
+    "expertise": {
+      "enabled": true,
+      "title": "Core Expertise"
+    },
+    "projectsPreview": {
+      "enabled": true,
+      "title": "Selected Projects"
+    },
+    "certificationsPreview": {
+      "enabled": true,
+      "title": "Certifications"
+    }
+  }
+}

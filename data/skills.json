@@ -1,0 +1,223 @@
+{
+  "domains": [
+    {
+      "id": "ai-agentic-ai",
+      "name": "AI / Agentic AI",
+      "description": "Designing and developing practical agentic AI systems using LLMs, agent orchestration, RAG, tools and integrations.",
+      "enabled": true,
+      "skills": [
+        {
+          "id": "agentic-ai",
+          "name": "Agentic AI",
+          "rating": 0,
+          "description": "Design and development of practical agentic AI systems and workflows.",
+          "enabled": true
+        },
+        {
+          "id": "ai-agents",
+          "name": "AI Agents",
+          "rating": 0,
+          "description": "Building task-oriented AI agents capable of reasoning, tool usage and multi-step execution.",
+          "enabled": true
+        },
+        {
+          "id": "langchain",
+          "name": "LangChain",
+          "rating": 0,
+          "description": "Developing LLM applications and agent workflows using LangChain.",
+          "enabled": true
+        },
+        {
+          "id": "langgraph",
+          "name": "LangGraph",
+          "rating": 0,
+          "description": "Building stateful, multi-step and orchestrated agent workflows.",
+          "enabled": true
+        },
+        {
+          "id": "llms",
+          "name": "LLMs",
+          "rating": 0,
+          "description": "Working with large language models for AI applications and agentic solutions.",
+          "enabled": true
+        },
+        {
+          "id": "rag",
+          "name": "RAG",
+          "rating": 0,
+          "description": "Designing retrieval-augmented generation workflows for grounded AI applications.",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "ai-infrastructure-engineering",
+      "name": "AI Infrastructure / Engineering",
+      "description": "Engineering the infrastructure, deployment, integration and observability foundation required for reliable AI systems.",
+      "enabled": true,
+      "skills": [
+        {
+          "id": "ai-infrastructure",
+          "name": "AI Infrastructure",
+          "rating": 0,
+          "description": "Designing and implementing infrastructure foundations for AI and agentic applications.",
+          "enabled": true
+        },
+        {
+          "id": "docker",
+          "name": "Docker",
+          "rating": 0,
+          "description": "Containerizing applications and supporting reproducible deployment environments.",
+          "enabled": true
+        },
+        {
+          "id": "observability",
+          "name": "Observability",
+          "rating": 0,
+          "description": "Monitoring application and AI system behavior, reliability and operational health.",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "rpa-automation",
+      "name": "RPA / Automation",
+      "description": "Enterprise automation experience spanning RPA development, automation platforms, orchestration and delivery.",
+      "enabled": true,
+      "skills": [
+        {
+          "id": "uipath-rpa",
+          "name": "UiPath RPA",
+          "rating": 0,
+          "description": "Enterprise RPA solution development using UiPath.",
+          "enabled": true
+        },
+        {
+          "id": "n8n",
+          "name": "n8n",
+          "rating": 0,
+          "description": "Building workflow automation and system integration workflows using n8n.",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "software-development",
+      "name": "Software Development",
+      "description": "Hands-on software engineering across programming, APIs, databases and full-stack application development.",
+      "enabled": true,
+      "skills": [
+        {
+          "id": "python",
+          "name": "Python",
+          "rating": 0,
+          "description": "Application development, automation, integrations and AI solution development using Python.",
+          "enabled": true
+        },
+        {
+          "id": "sql",
+          "name": "SQL",
+          "rating": 0,
+          "description": "Working with relational data, queries and database-driven applications.",
+          "enabled": true
+        },
+        {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "rating": 0,
+          "description": "Working with PostgreSQL for application data storage and database-backed solutions.",
+          "enabled": true
+        },
+        {
+          "id": "full-stack-engineering",
+          "name": "Full-Stack Engineering",
+          "rating": 0,
+          "description": "Developing complete applications across frontend, backend, APIs and data layers.",
+          "enabled": true
+        }
+      ]
+    },
+    {
+  "id": "apis-integrations",
+  "name": "APIs & Integrations",
+  "description": "Building reliable connections between AI systems, applications, tools and enterprise platforms.",
+  "enabled": true,
+  "skills": [
+    {
+      "id": "api-integration",
+      "name": "API Integration",
+      "rating": 0,
+      "description": "Integrating applications and AI systems through APIs.",
+      "enabled": true
+    },
+    {
+      "id": "tool-integration",
+      "name": "Tool Integration",
+      "rating": 0,
+      "description": "Connecting agents and applications with external tools and services.",
+      "enabled": true
+    },
+    {
+      "id": "system-integration",
+      "name": "System Integration",
+      "rating": 0,
+      "description": "Connecting enterprise applications and systems into cohesive workflows.",
+      "enabled": true
+    }
+  ]
+},
+
+
+
+    {
+      "id": "architecture-leadership",
+      "name": "Architecture / Leadership",
+      "description": "Technical architecture and leadership experience across enterprise automation, AI solutions and engineering delivery.",
+      "enabled": true,
+      "skills": [
+        {
+          "id": "solution-architecture",
+          "name": "Solution Architecture",
+          "rating": 0,
+          "description": "Designing scalable technical solutions aligned with business and engineering requirements.",
+          "enabled": true
+        },
+        {
+          "id": "agent-orchestration",
+          "name": "Agent Orchestration",
+          "rating": 0,
+          "description": "Designing and coordinating multi-step agent workflows and system interactions.",
+          "enabled": true
+        },
+        {
+          "id": "enterprise-automation-architecture",
+          "name": "Enterprise Automation Architecture",
+          "rating": 0,
+          "description": "Designing scalable enterprise automation architectures, standards and reusable approaches.",
+          "enabled": true
+        },
+        {
+          "id": "technical-leadership",
+          "name": "Technical Leadership",
+          "rating": 0,
+          "description": "Providing technical direction, engineering guidance and solution ownership.",
+          "enabled": true
+        },
+        {
+          "id": "delivery-management",
+          "name": "Delivery Management",
+          "rating": 0,
+          "description": "Managing technical execution, delivery activities and stakeholder expectations.",
+          "enabled": true
+        },
+        {
+          "id": "rpa-coe-management",
+          "name": "RPA CoE Management",
+          "rating": 0,
+          "description": "Managing RPA Centre of Excellence activities, standards, governance and delivery.",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
